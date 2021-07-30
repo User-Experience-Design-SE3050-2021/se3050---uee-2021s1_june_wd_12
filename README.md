@@ -3,11 +3,10 @@ se3050---uee-2021s1_june_wd_12 created by GitHub Classroom
 
 
 # Team Members:
-
-  IT19993416 - P.M. Ratnayake
-  IT9965000 - P.R.G.H.H. Bandara
-  IT19990446 - P.L.J.O. Cooray
-  IT19985428 – K.D.M.M. Rathnasiri
+ 	 IT19993416 - P.M. Ratnayake
+  	IT9965000 - P.R.G.H.H. Bandara
+  	IT19990446 - P.L.J.O. Cooray
+  	IT19985428 – K.D.M.M. Rathnasiri
   
   
 # Mobile App:
